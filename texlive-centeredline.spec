@@ -1,6 +1,6 @@
 Name:		texlive-centeredline
 Version:	64672
-Release:	1
+Release:	2
 Summary:	A macro for centering lines
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/centeredline
