@@ -3,7 +3,7 @@ Version:	64672
 Release:	2
 Summary:	A macro for centering lines
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/centeredline
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/centeredline
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/centeredline.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/centeredline.doc.r%{version}.tar.xz
